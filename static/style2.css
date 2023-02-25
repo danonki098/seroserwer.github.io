@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    justify-content: center;
+    margin-left: 43%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.formu {
+    margin-left: 27%;
+    margin-top: 8%;
+    justify-content: center;
+    background-color: beige;
+    width: 800px;
+    height: 500px;
+}
+
+input {
+    margin-top: 20px;
+    justify-content: center;
+    margin-left: 38%;
+}
+
+a {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   justify-content: center;
+   display: flex;
+   margin-right: 20px;
+   margin-top: 20px;
+}
+
+button {
+    width: 100px;
+    margin-top: 20px;
+    justify-content: center;
+    margin-left: 43%;
+}

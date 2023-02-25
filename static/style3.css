@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    justify-content: center;
+    display: flex;
+    margin-right: 5%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
