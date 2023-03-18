@@ -1,0 +1,77 @@
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+}
+
+body {
+  background: url("https://img.freepik.com/darmowe-zdjecie/streszczenie-grunge-dekoracyjne-ulga-granatowa-stiuk-tekstura-sciany-szorstki-szeroki-kat-kolorowe-tlo_1258-28311.jpg?size=626&ext=jpg");
+  justify-content: center;
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  height: 100vh;
+  padding: 6px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.test {
+  justify-content: center;
+  display: flex;
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+section {
+  position: relative;
+  background-color: rgba(0, 0, 0, 0.548);
+  width: 700px;
+  height: 400px;
+  backdrop-filter: blur(15px);
+  border-radius: 20px;
+}
+
+input {
+  margin-top: 20px;
+  width: 400px;
+  height: 30px;
+}
+
+#btn {
+  margin-top: 20px;
+  margin-left: 30px;
+  width: 350px;
+  padding: 6px;
+  cursor: pointer;
+  border-radius: 40px;
+  background-color: white;
+}
+#btn:hover {
+  background-color: red;
+  margin-top: 20px;
+  margin-left: 30px;
+  width: 350px;
+  padding: 6px;
+  cursor: pointer;
+  border-radius: 40px;
+}
+
+::placeholder {
+  color: lightgray;
+}
+
+.opis {
+  font-size: 40px;
+  color: #fff;
+  text-align: center;
+  margin: 25px 0 10px;
+}
+.opis p a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: 600;
+}
+.opis p a:hover {
+  text-decoration: underline;
+}

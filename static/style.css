@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+    background-image: url("https://img.freepik.com/darmowe-zdjecie/streszczenie-grunge-dekoracyjne-ulga-granatowa-stiuk-tekstura-sciany-szorstki-szeroki-kat-kolorowe-tlo_1258-28311.jpg?size=626&ext=jpg");
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    justify-content: center;
+    right: 200px;
+    margin-left: 45%;
+}
+
+.test {
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+    margin-left: 37%;
+    width: auto;
+    height: auto;
+}
+
+.subtitle {
+    justify-content: center;
+    margin-right: 2%;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    display: flex;
+}
+
+
+.opis{
+    font-size: 40px;
+    color: #fff;
+    text-align: center;
+    margin: 25px 0 10px;
+}
+.opis p a{
+    text-decoration: none;
+    color: #fff;
+    font-weight: 600;
+}
+.opis p a:hover{
+    text-decoration: underline;
+}
